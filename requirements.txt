@@ -52,7 +52,7 @@ python-debian==0.1.27
 python-distutils-extra==2.39
 pytracking==0.2.0
 pytz==2018.9
-PyYAML==3.11
+PyYAML==5.4
 redis==3.1.0
 requests==2.21.0
 rpm-python==4.12.0.1
